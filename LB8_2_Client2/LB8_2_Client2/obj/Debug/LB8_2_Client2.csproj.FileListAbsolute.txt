@@ -1,0 +1,21 @@
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.exe.config
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.exe
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.pdb
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.csprojAssemblyReference.cache
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.csproj.CoreCompileInputs.cache
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.exe
+C:\Users\429194-10\Desktop\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.pdb
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.exe.config
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.exe
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.pdb
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.csproj.AssemblyReference.cache
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.csproj.CoreCompileInputs.cache
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.exe
+Z:\ИСРПО\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.pdb
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.exe.config
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.exe
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\bin\Debug\LB8_2_Client2.pdb
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.csprojAssemblyReference.cache
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.csproj.CoreCompileInputs.cache
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.exe
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_2_Client2\LB8_2_Client2\obj\Debug\LB8_2_Client2.pdb
